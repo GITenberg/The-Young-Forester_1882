@@ -1,0 +1,34 @@
+_repo: The-Young-Forester_1882
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grey, Zane
+    aliases:
+    - Gray, Pearl Zane
+    - Gray, Zane
+    birthdate: 1872
+    deathdate: 1939
+    gutenberg_agent_id: '212'
+    url: http://www.gutenberg.org/2009/agents/212
+    wikipedia: http://en.wikipedia.org/wiki/Zane_Grey
+description: Kenneth Ward, a young eastern lad just out of prepatory school, goes
+  West on his summer vacation to join a friend, Dick Leslie, a government forest ranger
+  in Arizona. Ken, honest, loyal but hotheaded runs into plenty of excitement and
+  trouble when he discovers a big lumber robbery.
+gutenberg_bookshelf: Western
+gutenberg_issued: '1999-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1882'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Arizona -- Fiction'
+- !lcsh 'Western stories'
+- GITenberg
+title: The Young Forester
+url: http://www.gutenberg.org/ebooks/1882
