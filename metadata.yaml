@@ -1,5 +1,8 @@
 _repo: The-Young-Forester_1882
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Grey, Zane
@@ -15,6 +18,8 @@ description: Kenneth Ward, a young eastern lad just out of prepatory school, goe
   West on his summer vacation to join a friend, Dick Leslie, a government forest ranger
   in Arizona. Ken, honest, loyal but hotheaded runs into plenty of excitement and
   trouble when he discovers a big lumber robbery.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1882#The-Young-Forester
 gutenberg_bookshelf: Western
 gutenberg_issued: '1999-09-01'
 gutenberg_type: Text
